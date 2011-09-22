@@ -1,7 +1,7 @@
 {
   "name": "wrappers",
   "description": "Useful mixins for several packages and innate Javascript things.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "http://henrian.com/",
   "author": "Christopher Brown <io@henrian.com>",
   "main": "./index.js"
