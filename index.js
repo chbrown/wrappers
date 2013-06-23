@@ -2,6 +2,7 @@
 exports.http = require("./lib/http");
 exports.mongo = require("./lib/mongo");
 exports.sql = require("./lib/sql");
+exports.cookies = require("./lib/cookies");
 
 // destructive
 exports.array = require("./lib/array");
